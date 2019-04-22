@@ -300,6 +300,19 @@ header .main ul li a.active {
 
 .notice {
   width: 90%;
+  margin: 2rem auto;
+  font-size: 1.4rem;
+  line-height: 3rem;
+  background-color: #fff;
+  box-shadow: 0 0 4px #ccc;
+}
+
+.notice a {
+  float: left;
+  display: inline-block;
+  width: 70%;
+  margin-left: 2rem;
+  text-decoration: none;
 }
 
 
