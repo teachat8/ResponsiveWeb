@@ -315,6 +315,12 @@ header .main ul li a.active {
   text-decoration: none;
 }
 
+.notice a:first-child {
+  text-overflow: ellipsis;
+}
+
+
+
 
 
 
