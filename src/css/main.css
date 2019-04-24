@@ -357,10 +357,6 @@ header .main ul li a.active {
 
 /* 滚动广告 */
 
-.ad {
-  display: none;
-}
-
 /* 平台特点 */
 
 .feature {
@@ -371,7 +367,7 @@ header .main ul li a.active {
 
 .feature .item {
   display: inline-block;
-  width: calc(33.33333333333% - 3rem);
+  width: calc(33.33333% - 3rem);
   padding: 1rem;
   font-size: 1.4rem;
   background-color: #fff;
